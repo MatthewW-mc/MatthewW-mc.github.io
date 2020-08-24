@@ -5,9 +5,9 @@
 ## Personal Information
 Surname(s) / First name(s): Matthew Wu
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [wu91@mcmaster.ca](mailto:youremail@domain.com)
 
-Date of birth: Write your date of birth here
+Date of birth: 2001/02/01
 
 ### About Me
 
@@ -51,7 +51,7 @@ Write a few sentences describing you the best.
 
 # Eduction
 
-* (1983-Forever) - Student 
+* (Forever) - Student 
 
 ## Technical Skills
 
